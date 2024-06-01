@@ -1,4 +1,5 @@
 # Day-2_Coin-Flipper
+(  https://adityamatrix.github.io/Day-2_Coin-Flipper/ )
 This is a simple  coin flipper application built using HTML, CSS, and JavaScript.
 
 # Introduction
